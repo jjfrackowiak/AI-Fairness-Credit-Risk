@@ -1,6 +1,6 @@
 # Fairness in Credit Scoring: German Credit Data
 
-This project explores algorithmic bias in credit scoring models and applies fairness-aware machine learning techniques to mitigate gender-based discrimination. Using the German Credit dataset and the AIF360 fairness toolkit by IBM, we demonstrate how various preprocessing, in-processing, and post-processing methods affect both model performance and fairness metrics. Scripts are inside PDF with report.
+This project explores algorithmic bias in credit scoring models and applies fairness-aware machine learning techniques to mitigate gender-based discrimination. Using the German Credit dataset and the AIF360 fairness toolkit by IBM, we demonstrate how various preprocessing, in-processing, and post-processing methods affect both model performance and fairness metrics. Scripts can be found in the PDF with report.
 
 ## 📌 Project Goals
 
@@ -31,7 +31,7 @@ This project explores algorithmic bias in credit scoring models and applies fair
 - **False Positive Rate (FPR)**
 - **Balanced Accuracy**
 
-## Results Summary
+## 📊 Results Summary
 
 | Technique                | Accuracy | FPR  | Demographic Parity | Equal Opportunity |
 |--------------------------|----------|------|---------------------|--------------------|
@@ -43,13 +43,13 @@ This project explores algorithmic bias in credit scoring models and applies fair
 
 🔎 **Conclusion:** Reweighing offers the best trade-off between fairness and performance.
 
-## Business Impact
+## 🏢 Business Impact
 
 - Supports **regulatory compliance** with anti-discrimination laws (e.g., GDPR, ECOA)
 - Enhances trust and transparency in automated decision-making
 - Provides a foundation for fair credit models in financial services
 
-## Authors
+## 🧑‍🤝‍🧑 Authors
 
 - Anirban Das  
 - Jan Frąckowiak  
